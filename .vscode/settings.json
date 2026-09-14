@@ -1,0 +1,7 @@
+{
+    "java.hints.conversion.suggestTryWithResources": false,
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.hints.conversion.suggestSwitchExpressions": false
+}
